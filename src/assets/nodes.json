@@ -6,6 +6,7 @@
 		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe"
 	},
 	"全球[Global]":{
+		"Apple":"https://store.storevideos.cdn-apple.com/v1/store.apple.com/st/1666383693478/atvloop-video-202210/streams_atvloop-video-202210/1920x1080/fileSequence3.m4s",
 		"Cachefly":"https://web1.cachefly.net/speedtest/downloading",
 		"Cloudflare Speed":"https://speed.cloudflare.com/__down?bytes=104857600",
 		"Steam Akamai":"https://cdn.akamai.steamstatic.com/steam/apps/1063730/extras/NW_Sword_Sorcery_2.gif",
